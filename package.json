@@ -11,5 +11,8 @@
   "license": "ISC",
   "bin": {
     "tme": "index.js"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.0"
   }
 }
